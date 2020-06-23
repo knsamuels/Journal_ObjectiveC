@@ -97,16 +97,8 @@
 			isa = PBXGroup;
 			children = (
 				C93DFE4E24A14722009C46AF /* Main.storyboard */,
-				C93DFE6024A14845009C46AF /* Custom Cell */,
 			);
 			path = Views;
-			sourceTree = "<group>";
-		};
-		C93DFE6024A14845009C46AF /* Custom Cell */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "Custom Cell";
 			sourceTree = "<group>";
 		};
 		C93DFE6124A1484C009C46AF /* Controllers */ = {
